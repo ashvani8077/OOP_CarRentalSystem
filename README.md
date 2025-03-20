@@ -1,5 +1,5 @@
 # OOP-Car-RentalSystem
 
-![Screenshot 1](Screenshot/1.png)
-![Screenshot 2](Screenshot/2.png)
-![Screenshot 3](Screenshot/3.png)
+![Screenshots 1](Screenshots/1.png)
+![Screenshots 2](Screenshots/2.png)
+![Screenshots 3](Screenshots/3.png)
